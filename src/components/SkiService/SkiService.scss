@@ -1,0 +1,25 @@
+.ski_service {
+  min-height: calc(100vh - 12vh - 40px);
+  margin: 25px 15px;
+  line-height: 1.4;
+  max-width: 1200px;
+  
+  p {
+    margin-bottom: 20px;
+    
+    li {
+      margin: 10px 30px;
+      font-weight: bold;
+      list-style-type: disc;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+
+  .ski_service {
+    min-height: calc(100vh - 14px - 100px);
+    margin: 10vh auto 0;
+    padding: 0 25px;
+  }
+}

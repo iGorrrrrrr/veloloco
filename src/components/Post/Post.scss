@@ -1,0 +1,33 @@
+.news {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  margin: 15px;
+
+  .news_data-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .news_data-date{
+    font-size: .7em;
+  }
+
+  .news_img {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .news_data-content {
+    line-height: 1.4;
+  }
+}
+
+@media (min-width: 768px) {
+  .news {
+    width: 800px;
+    margin: 50px auto;
+
+  }
+}

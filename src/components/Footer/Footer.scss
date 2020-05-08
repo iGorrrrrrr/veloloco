@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 1px 10px;
+  height: 40px;
+
+  background: var(--black);
+  color: var(--white);
+  font-size: .6rem;
+
+  .social {
+    font-size: 30px;
+
+    a {
+      color: var(--white);
+    }
+  }
+
+}
