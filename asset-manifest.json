@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/veloloco/static/css/main.50ba8d7a.chunk.css",
+    "main.js": "/veloloco/static/js/main.cf96f5f8.chunk.js",
+    "main.js.map": "/veloloco/static/js/main.cf96f5f8.chunk.js.map",
+    "runtime-main.js": "/veloloco/static/js/runtime-main.4b6efefd.js",
+    "runtime-main.js.map": "/veloloco/static/js/runtime-main.4b6efefd.js.map",
+    "static/js/2.d935757d.chunk.js": "/veloloco/static/js/2.d935757d.chunk.js",
+    "static/js/2.d935757d.chunk.js.map": "/veloloco/static/js/2.d935757d.chunk.js.map",
+    "index.html": "/veloloco/index.html",
+    "precache-manifest.7e05e233479f4ee651f8d3ad06bd8926.js": "/veloloco/precache-manifest.7e05e233479f4ee651f8d3ad06bd8926.js",
+    "service-worker.js": "/veloloco/service-worker.js",
+    "static/css/main.50ba8d7a.chunk.css.map": "/veloloco/static/css/main.50ba8d7a.chunk.css.map",
+    "static/js/2.d935757d.chunk.js.LICENSE.txt": "/veloloco/static/js/2.d935757d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6efefd.js",
+    "static/js/2.d935757d.chunk.js",
+    "static/css/main.50ba8d7a.chunk.css",
+    "static/js/main.cf96f5f8.chunk.js"
+  ]
+}
